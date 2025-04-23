@@ -9,14 +9,14 @@ const products = {
         },
         {
             id: 'm2',
-            title: 'Samsung Galaxy S23 Ultra',
-            price: 124999,
+            title: 'oppo 814',
+            price: 990909090,
             image: 'https://m.media-amazon.com/images/I/61RZ0bN0VjL._SL1500_.jpg'
         },
         {
             id: 'm3',
             title: 'OnePlus 11 5G',
-            price: 56999,
+            price: 98654,
             image: 'https://m.media-amazon.com/images/I/61amb0CfMGL._SL1500_.jpg'
         },
         {
