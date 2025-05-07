@@ -10,7 +10,7 @@ const products = {
         {
             id: 'm2',
             title: 'oppo 814',
-            price: 990909090,
+            price: 799799,
             image: 'https://m.media-amazon.com/images/I/61RZ0bN0VjL._SL1500_.jpg'
         },
         {
@@ -129,7 +129,7 @@ const products = {
             id: 'c1',
             title: 'Men\'s Casual Shirt',
             price: 899,
-            image: 'https://m.media-amazon.com/images/I/61+Q9Zt+QjL._UL1500_.jpg'
+            image: 'https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#/media/File:A._P._J._Abdul_Kalam.jpg'
         },
         {
             id: 'c2',
