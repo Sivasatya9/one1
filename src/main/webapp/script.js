@@ -9,7 +9,7 @@ const products = {
         },
         {
             id: 'm2',
-            title: 'oppo 814',
+            title: 'oppo ',
             price: 799799,
             image: 'https://m.media-amazon.com/images/I/61RZ0bN0VjL._SL1500_.jpg'
         },
